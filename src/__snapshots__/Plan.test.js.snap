@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+Array [
+  <li
+    className="shadow p-2 my-2 col-sm-9"
+  />,
+  <button
+    className="btn btn-danger my-2 col-sm-2 offset-1"
+    onClick={[Function]}
+  >
+    X
+  </button>,
+]
+`;
